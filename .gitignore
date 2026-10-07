@@ -1,0 +1,8 @@
+venv/
+__pycache__/
+*.pyc
+certificates.db
+generated_certificates/
+.pytest_cache/
+error.txt
+full_error.txt
